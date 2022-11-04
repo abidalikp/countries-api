@@ -28,7 +28,7 @@ Send with json body:
 "capital": "New Delhi"
 }
 ```
-### Details of a Country (with id=1)
+### Delete of a Country (with id=1)
 ```http
 DELETE /api/countries/1
 ```
