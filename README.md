@@ -60,7 +60,7 @@ pip install -r requirements.txt
 py manage.py runserver
 ```
 
-6. Go to browser and type:
+6. Go to postman and test api using the base url:
 ```
-http://localhost:8000/
+http://localhost:8000
 ```
